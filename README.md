@@ -46,14 +46,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beem-dev&show_icons=true&theme=radical" alt="Beem's GitHub stats" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 - 📧 Email: [67035011@kmitl.ac.th](mailto:67035011@kmitl.ac.th)  
