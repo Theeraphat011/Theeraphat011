@@ -5,18 +5,35 @@
 </p>
 
 <p align="center">
-  🎓 King Mongkut's Institute of Technology Ladkrabang <br/>
-  🇹🇭 Bangkok, Thailand 🏙️ <br/>
-  📧 67035011@kmitl.ac.th
+# 🌟 Personal Info
+
+## Name: **Threephat Kannua**  
+🎂 **Birthday**: 11th March 2003  
+🎨 **Favorite Color**: Green  
+
+---
+
+🎓 **Education**:  
+- **King Mongkut's Institute of Technology Ladkrabang**  
+
+🌍 **Location**:  
+- **Bangkok, Thailand** 🇹🇭
+
+📧 **Email**:  
+- [67035011@kmitl.ac.th](mailto:67035011@kmitl.ac.th)
+
+---
+
+### 💼 Dream Career: Software Developer
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 Passionate about building intelligent interfaces & smart applications  
-- 🔬 Exploring AI assistants, real-time apps, and embedded systems  
-- 🛠️ Crafting full-stack apps with MERN, Firebase, Prisma, Mongoose, and ESP32 integrations  
+- 🧠 Currently studying to become a Software Developer  
+- 🔬 Focused on learning full-stack development, AI assistants, and real-time applications  
+- 🛠️ Gaining experience with technologies like MERN, Firebase, Prisma, Mongoose, and ESP32 integrations
 
 ---
 
