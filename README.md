@@ -10,9 +10,9 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 I love building smart things with **React**, **TailwindCSS**, and **Node.js**
-- 🔬 Currently exploring **AI assistants**, **Realtime systems**, and **IoT integrations**
-- 🛠️ Always tinkering with **MERN Stack**, **Firebase**, and **ESP32**
+- 🧠 
+- 🔬 
+- 🛠️ 
 
 ---
 
