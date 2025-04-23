@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Beem</h1>
 
-<img src="/IMG_7794.jpg" alt="PROFILE" width="150" height="200" />
----
+<img src="/IMG_7794.jpg" alt="PROFILE" width="150" height="200" align="center"/>
+
 <p align="center">
   🎓 King Mongkut's Institute of Technology Ladkrabang <br/>
   🇹🇭 Bangkok, Thailand 🏙️ <br/>
