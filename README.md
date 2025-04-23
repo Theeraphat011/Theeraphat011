@@ -62,6 +62,7 @@
 #### ⚙️ Systems & Hardware
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 ![ESP32](https://img.shields.io/badge/-ESP32-FF6F00?style=flat&logo=arduino&logoColor=white)
 
