@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Beem</h1>
 
 <p align="center">
-  <img src="/IMG_7794.jpg" alt="PROFILE" width="300" height="300" />
+  <img src="/IMG_7794.jpg" alt="PROFILE" width="300" height="400" />
 </p>
 
 <p align="center">
