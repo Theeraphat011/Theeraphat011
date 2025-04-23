@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Beem</h1>
 
-![PROFILE](/IMG_7794.jpg)
+<img src="/IMG_7794.jpg" alt="PROFILE" width="150" height="200" />
 ---
 <p align="center">
   🎓 King Mongkut's Institute of Technology Ladkrabang <br/>
