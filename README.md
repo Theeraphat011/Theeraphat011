@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Beem</h1>
 
-<!--
-**Theeraphat011/Theeraphat011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 King Mongkut's Institute of Technology Ladkrabang <br/>
+  🇹🇭 Bangkok, Thailand 🏙️ <br/>
+  📧 67035011@kmitl.ac.th
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🧠 I love building smart things with **React**, **TailwindCSS**, and **Node.js**
+- 🔬 Currently exploring **AI assistants**, **Realtime systems**, and **IoT integrations**
+- 🛠️ Always tinkering with **MERN Stack**, **Firebase**, and **ESP32**
+
+---
+
+### 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+![ESP32](https://img.shields.io/badge/-ESP32-FF6F00?style=flat&logo=arduino&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beem-dev&show_icons=true&theme=radical" alt="beem-dev stats" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+- Email: [67035011@kmitl.ac.th](mailto:67035011@kmitl.ac.th)
+- Location: Bangkok, Thailand 🇹🇭
+
