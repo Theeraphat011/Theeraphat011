@@ -7,7 +7,7 @@
 <p align="center">
 # 🌟 Personal Info
 
-## Name: **Threephat Kannua**  
+## Name: **Threephat Kanbua**  
 🎂 **Birthday**: 11th March 2003  
 🎨 **Favorite Color**: Green  
 
