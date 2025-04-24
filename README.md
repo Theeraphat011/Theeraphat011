@@ -78,7 +78,7 @@
 
 | Technology       | Usage        |
 |------------------|--------------|
-| **React**        | ![React](https://img.shields.io/badge/-React%20Router%20DOM-CA4245?logo=react-router&logoColor=white&style=flat) 80% |
+| **React**        | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 80% |
 | **TailwindCSS**  | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) 80% |
 | **Node.js**      | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 70% |
 | **Firebase**     | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) 30% |
