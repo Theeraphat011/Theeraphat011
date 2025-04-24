@@ -61,12 +61,34 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat)
 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+
 #### ⚙️ Systems & Hardware
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat)
 ![ESP32](https://img.shields.io/badge/-ESP32-FF6F00?style=flat&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-FF6600?logo=protocols.io&logoColor=white&style=flat)
+![Mosquitto](https://img.shields.io/badge/-Mosquitto-5C5C5C?logo=eclipsemosquitto&logoColor=white&style=flat)
+
+---
+
+### 📊 Tech Stack Usage
+
+| Technology       | Usage        |
+|------------------|--------------|
+| **React**        | ![React](https://progress-bar.dev/90) 80% |
+| **TailwindCSS**  | ![TailwindCSS](https://progress-bar.dev/80) 80% |
+| **Node.js**      | ![Node.js](https://progress-bar.dev/70) 70% |
+| **Firebase**     | ![Firebase](https://progress-bar.dev/70) 30% |
+| **MongoDB/Mongoose** | ![MongoDB](https://progress-bar.dev/60) 60% |
+| **MySQL/Prisma** | ![MySQL](https://progress-bar.dev/50) 50% |
+| **ESP32/Arduino** | ![ESP32](https://progress-bar.dev/50) 40% |
+| **MQTT/Mosquitto** | ![MQTT](https://progress-bar.dev/30) 20% |
+| **Next.js**      | ![Next.js](https://progress-bar.dev/60) 70% |
+| **Redux**        | ![Redux](https://progress-bar.dev/65) 60% |
+| **React Router** | ![React Router](https://progress-bar.dev/75) 65% |
 
 ---
 
