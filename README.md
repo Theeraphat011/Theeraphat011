@@ -78,17 +78,17 @@
 
 | Technology       | Usage        |
 |------------------|--------------|
-| **React**        | ![React](https://progress-bar.dev/90) 80% |
-| **TailwindCSS**  | ![TailwindCSS](https://progress-bar.dev/80) 80% |
-| **Node.js**      | ![Node.js](https://progress-bar.dev/70) 70% |
-| **Firebase**     | ![Firebase](https://progress-bar.dev/70) 30% |
-| **MongoDB/Mongoose** | ![MongoDB](https://progress-bar.dev/60) 60% |
-| **MySQL/Prisma** | ![MySQL](https://progress-bar.dev/50) 50% |
-| **ESP32/Arduino** | ![ESP32](https://progress-bar.dev/50) 40% |
-| **MQTT/Mosquitto** | ![MQTT](https://progress-bar.dev/30) 20% |
-| **Next.js**      | ![Next.js](https://progress-bar.dev/60) 70% |
-| **Redux**        | ![Redux](https://progress-bar.dev/65) 60% |
-| **React Router** | ![React Router](https://progress-bar.dev/75) 65% |
+| **React**        | ![React](https://img.shields.io/badge/-React%20Router%20DOM-CA4245?logo=react-router&logoColor=white&style=flat) 80% |
+| **TailwindCSS**  | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) 80% |
+| **Node.js**      | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 70% |
+| **Firebase**     | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) 30% |
+| **MongoDB/Mongoose** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 60% |
+| **MySQL/Prisma** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) 50% |
+| **ESP32/Arduino** | ![ESP32](https://img.shields.io/badge/-ESP32-FF6F00?style=flat&logo=arduino&logoColor=white) 40% |
+| **MQTT/Mosquitto** | ![MQTT](https://img.shields.io/badge/-MQTT-FF6600?logo=protocols.io&logoColor=white&style=flat) 20% |
+| **Next.js**      | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) 70% |
+| **Redux**        | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat) 60% |
+| **React Router** | ![React Router](https://img.shields.io/badge/-React%20Router%20DOM-CA4245?logo=react-router&logoColor=white&style=flat) 65% |
 
 ---
 
