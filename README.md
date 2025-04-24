@@ -46,6 +46,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![React Router](https://img.shields.io/badge/-React%20Router%20DOM-CA4245?logo=react-router&logoColor=white&style=flat)
 
 #### 🖥️ Backend & Database
 
